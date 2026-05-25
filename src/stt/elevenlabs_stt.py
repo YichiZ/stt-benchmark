@@ -16,7 +16,7 @@ def run(audio_path: str = SAMPLE_AUDIO):
     with open(audio_path, "rb") as f:
         result = client.speech_to_text.convert(
             file=f,
-            model_id="scribe_v1",
+            model_id="scribe_v2",
             language_code="en",
             diarize=True,
         )

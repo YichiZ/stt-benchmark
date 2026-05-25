@@ -19,7 +19,7 @@ def run(text: str = SAMPLE_TEXT, voice: str = "s3://voice-cloning-zero-shot/775a
         api_key=os.environ["PLAYHT_API_KEY"],
     )
 
-    options = TTSOptions(voice=voice)
+    options = TTSOptions(voice=voice, model="Play3.0-mini")
 
     start = time.perf_counter()
     os.makedirs(os.path.dirname(output_path), exist_ok=True)

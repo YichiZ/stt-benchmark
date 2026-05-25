@@ -22,6 +22,7 @@ def run(audio_path: str = SAMPLE_AUDIO):
         smart_format=True,
         diarize=True,
         utterances=True,
+        request_options={"timeout_in_seconds": 600},
     )
     elapsed = time.perf_counter() - start
 

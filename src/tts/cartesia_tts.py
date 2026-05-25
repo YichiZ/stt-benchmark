@@ -17,7 +17,7 @@ def run(text: str = SAMPLE_TEXT, voice_id: str = "a0e99841-438c-4a64-b679-ae501e
 
     start = time.perf_counter()
     audio_data = client.tts.bytes(
-        model_id="sonic-2",
+        model_id="sonic-3",
         transcript=text,
         voice_id=voice_id,
         output_format={

@@ -1,0 +1,822 @@
+Speaker 0: Welcome,
+Speaker 0: everyone. Thank you for standing by for the Alphabet First Quarter twenty twenty six Earnings Conference Call.
+Speaker 0: At this time, all participants are in a listen only mode.
+Speaker 0: After the speaker presentation, there will be a question and answer session.
+Speaker 0: I would now like to hand the conference over to your speaker today, Jim Friedland, Head of Investor Relations. Please go ahead.
+Speaker 1: Thank you. Good afternoon, everyone, and welcome to Alphabet's first quarter twenty twenty six earnings conference call. With us today are Sundar Pichai, Philip Schindler and Anat Ashkenazi.
+Speaker 1: Now I'll quickly cover the Safe Harbor.
+Speaker 1: Some of the statements that we make today regarding our business, operations, and financial performance may be considered forward looking.
+Speaker 1: Such statements are based on current expectations and assumptions that are subject to a number of risks and uncertainties.
+Speaker 1: Actual results could differ materially.
+Speaker 1: Please refer to our Forms 10 ks and 10 Q, including the risk factors.
+Speaker 1: We undertake no obligation to update any forward looking statement.
+Speaker 1: During this call, we will present both GAAP and non GAAP financial measures.
+Speaker 1: A reconciliation of non GAAP to GAAP measures is included in today's earnings press release, which is distributed and available to the public through our Investor Relations website located at abc.xyzinvestor.
+Speaker 1: Our comments will be on year over year comparisons unless we state otherwise.
+Speaker 1: And now, I'll turn the call over to Sundar.
+Speaker 2: Thanks,
+Speaker 2: Jim. Hi, everyone, and thanks for joining us today. It was a terrific quarter for Alphabet.
+Speaker 2: Our momentum was on full display at Cloud Next last week, and the month of May brings even more with IO, Brandcast and GML.
+Speaker 2: I hope you'll tune in to see our progress.
+Speaker 2: It's clear that our AI investments and full stack approach are driving performance across our business.
+Speaker 2: In Search and Other, revenue grew 19%.
+Speaker 2: People love our AI experiences like AI Mode and AI Overviews,
+Speaker 2: and they're coming back to Search more.
+Speaker 2: Cloud accelerated again this quarter due to strong demand for our products and infrastructure.
+Speaker 2: Revenue grew 63%,
+Speaker 2: exceeding $20,000,000,000
+Speaker 2: for the first time, and our backlog nearly doubled quarter on quarter to over $460,000,000,000
+Speaker 2: Gemini Enterprise is seeing tremendous momentum with 40%
+Speaker 2: growth quarter over quarter in paid monthly active users.
+Speaker 2: In subscriptions,
+Speaker 2: this was the strongest quarter ever for our consumer AI plans,
+Speaker 2: primarily driven by adoption of the Gemini app.
+Speaker 2: Overall,
+Speaker 2: the number of paid subscriptions has now reached three fifty million with YouTube and Google One being the key drivers.
+Speaker 2: And our AI models have great momentum.
+Speaker 2: Our first party models now process more than 16,000,000,000 tokens per minute via direct API used by our customers,
+Speaker 2: up from 10,000,000,000 last quarter.
+Speaker 2: Today, I'll share our progress across the AI full stack, then Search and Cloud, followed by YouTube and Other Bets.
+Speaker 2: Starting with our AI infrastructure.
+Speaker 2: It's the foundation of our full stack approach to AI,
+Speaker 2: driving customer growth and product adoption.
+Speaker 2: Our custom TPUs,
+Speaker 2: Axion CPUs,
+Speaker 2: and the latest NVIDIA GPUs continue to form the industry's widest variety of compute options.
+Speaker 2: NVIDIA GPUs are a core part of our AI accelerator portfolio and will be among the first to offer NVIDIA Vera Rubin NVL72
+Speaker 2: in addition to the Blackwell and Hopper based instances
+Speaker 2: already available.
+Speaker 2: At Cloud Next, we introduced our eighth generation TPUs,
+Speaker 2: individually specialized for training and serving
+Speaker 2: and able to take on the most demanding
+Speaker 2: agentic workloads.
+Speaker 2: TPU 8T
+Speaker 2: provides high performance model training with 3x the processing power of Ironwood and 2x the performance.
+Speaker 2: TPU 8Ti delivers cost effective, low latency inference
+Speaker 2: with 80% better performance per dollar than the prior generation.
+Speaker 2: This exceptional infrastructure powers our world class AI research
+Speaker 2: that includes models and tooling, which continue to progress really well.
+Speaker 2: Gemini 3.1 Pro continues to push the frontier in reasoning, multimodal understanding,
+Speaker 2: and cost.
+Speaker 2: We have quickly expanded the Gemini 3.1 series of models to offer more choices for developers,
+Speaker 2: including our cost efficient Flash models.
+Speaker 2: 3.1 Flash Live, our latest audio model, has improved precision and reasoning,
+Speaker 2: making voice interactions more natural and intuitive.
+Speaker 2: It's now powering conversational features in Search and the Gemini app.
+Speaker 2: Speech to text is now available in 70 languages.
+Speaker 2: And with 3.1 Pro, our deep research agent got a big upgrade including MCP support
+Speaker 2: and native visualizations.
+Speaker 2: Our generative media models are incredibly popular. Liria three has generated over 150,000,000
+Speaker 2: songs
+Speaker 2: since launching on the Gemini app.
+Speaker 2: Nano Banana two reached 1,000,000,000 images in nearly half the time of Nano Banana one.
+Speaker 2: And Vio 3.1 Lite is our most cost efficient video model to date.
+Speaker 2: On top of this, we launched Gemma four, our most intelligent open model.
+Speaker 2: It's been downloaded over 50,000,000 times in just a few weeks.
+Speaker 2: In fact, our open models have now been downloaded over 500,000,000
+Speaker 2: times.
+Speaker 2: Looking ahead, we are focused on pushing the next frontiers of foundation models,
+Speaker 2: including intelligence,
+Speaker 2: agents and agentic coding.
+Speaker 2: And we are using the latest technologies to transform how we work as a company.
+Speaker 2: For example, with antigravity,
+Speaker 2: we are shifting to truly agentic workflows.
+Speaker 2: Our engineers are now orchestrating fully autonomous digital task forces
+Speaker 2: and building at a faster velocity.
+Speaker 2: Much more to come here.
+Speaker 2: Next, we are bringing helpful AI into the hands of billions of people every day through our products and platforms.
+Speaker 2: Earlier this year, we introduced personal intelligence,
+Speaker 2: which helps people get more personalized and helpful responses.
+Speaker 2: It's now in the Gemini app, AI mode and Gemini in Chrome.
+Speaker 2: Early traction has been good and this month we integrated Nano Banana two to
+Speaker 2: make personalized
+Speaker 2: image creation possible in the Gemini app.
+Speaker 2: Maps recently got its most significant upgrade
+Speaker 2: in over a decade with Gemini.
+Speaker 3: Users can now have a conversation with Maps and get more personalized suggestions and intuitive directions.
+Speaker 2: And the Pixel 10a launched positive reviews,
+Speaker 2: providing the best of Google's AI features like Gemini Live
+Speaker 2: and AI powered camera features.
+Speaker 2: Turning to Search. AI continues to drive Search usage, and queries are at an all time high.
+Speaker 2: We continue to invest in improvements to AI overviews, which are driving overall Search growth,
+Speaker 2: and we're also seeing strong growth in both users and
+Speaker 2: usage of AI mode globally.
+Speaker 2: Personal intelligence expanded broadly in The U. S, and we are seeing people ask more personal questions
+Speaker 2: and getting responses that are uniquely relevant to them.
+Speaker 2: We also shipped agentic experiences like restaurant booking to new countries
+Speaker 2: and new multimodal capabilities like Search Live globally.
+Speaker 2: We are also continuing to improve efficiency and speed.
+Speaker 2: Even as we have brought new AI features into our results page, we have reduced search latency by more than 35%
+Speaker 2: over the past five years.
+Speaker 2: And since upgrading AI Overviews and AI Mode to Gemini three, we have reduced the cost of core AI responses
+Speaker 2: by more than 30%,
+Speaker 2: thanks to continued hardware and engineering breakthroughs.
+Speaker 2: We are excited to share more about Search at IO.
+Speaker 2: Now, over to Google Cloud.
+Speaker 2: Google Cloud is differentiated because we are the only provider to offer first party solutions
+Speaker 2: across the entire enterprise AI stack.
+Speaker 2: Our growth in revenue, operating margin, and backlog highlights this differentiation.
+Speaker 2: Our enterprise AI solutions have become our primary growth driver for cloud for the first time.
+Speaker 2: In Q1, revenue from products built on our Gen AI models grew nearly 800%
+Speaker 2: year over year.
+Speaker 2: We are winning new customers faster,
+Speaker 2: with new customer acquisition doubling compared to the same period last year.
+Speaker 2: We are seeing strong deal momentum, doubling the number of $100,000,000 to $1,000,000,000
+Speaker 2: deals year on year and signing multiple billion dollar plus deals.
+Speaker 2: And we are deepening relationships with existing customers.
+Speaker 2: Customers outpaced their initial commitments by 45%,
+Speaker 2: accelerating over last quarter.
+Speaker 2: At Cloud Next last week, we introduced hundreds of new capabilities
+Speaker 2: across our vertically optimized AI stack that are designed to work together
+Speaker 2: for our enterprise customers.
+Speaker 2: We introduced a new Gemini Enterprise Agent platform that empowers users to build, orchestrate, govern and optimize agents
+Speaker 2: with the controls that enterprise customers need.
+Speaker 2: Along with new capabilities in Gemini Enterprise app, like Projects,
+Speaker 2: Canvas, long running agents and skills,
+Speaker 2: every employee can build agents.
+Speaker 2: In Q1, Gemini Enterprise paid monthly active users grew 40%
+Speaker 2: quarter over quarter. That includes major global brands like Bosch, CityVeldt,
+Speaker 2: Merck and Mars Incorporated.
+Speaker 2: Our partner ecosystem
+Speaker 2: plays an increasingly critical role in driving Gemini Enterprise adoption.
+Speaker 2: We saw 9x year over year growth both in seats sold with partners and in the number of partners adopting it for internal use.
+Speaker 2: This momentum is leading to accelerating
+Speaker 2: usage of our models.
+Speaker 2: Over the past twelve months, three thirty Google Cloud customers each processed over 1,000,000,000,000 tokens.
+Speaker 2: 35 reached
+Speaker 2: the 10,000,000,000,000 token milestone.
+Speaker 2: To give agents business context from enterprise data to help them reason intelligently,
+Speaker 2: we introduced a new agentic data cloud.
+Speaker 2: It includes across cloud lakehouse,
+Speaker 2: knowledge catalog and deep research agents,
+Speaker 2: which combine research and analytical skills.
+Speaker 2: As an example, using our data cloud,
+Speaker 2: American Express is enabling agent ecommerce at scale by moving an enterprise data platform,
+Speaker 2: along with hundreds of production applications to BigQuery.
+Speaker 2: Vodafone is proactively resolving outages,
+Speaker 2: automating network planning,
+Speaker 2: and precisely targeting capacity.
+Speaker 2: Enterprise data has become critical for agents to reason.
+Speaker 2: Our strength with BigQuery and Gemini Enterprise
+Speaker 2: has led Gemini powered workflows in BigQuery to grow over 30x
+Speaker 2: year over year.
+Speaker 2: As cybersecurity
+Speaker 2: threats from the use of AI models accelerate,
+Speaker 2: Our expertise in AI and cybersecurity
+Speaker 2: is driving strong demand for our agentic defense offerings.
+Speaker 2: In March, we closed the acquisition of WIS, a leading cloud and security AI platform,
+Speaker 2: which is an incredible fit for the moment we are in.
+Speaker 2: We have seen tremendous interest from customers in our unique cybersecurity and AI products and services
+Speaker 2: to protect their IT estate.
+Speaker 2: The performance of this, so far, has exceeded our expectations.
+Speaker 2: Together with Google's threat intelligence,
+Speaker 2: security operations and AI models,
+Speaker 2: Wizz is helping organizations
+Speaker 2: detect, prevent and respond to threats.
+Speaker 2: We introduced new Gemini powered agents for threat detection,
+Speaker 2: continuous red teaming,
+Speaker 2: and automated remediation to protect software, code, and cloud systems.
+Speaker 2: Customers like Deloitte, Priceline, and Shell are using our AgenTic Defense to strengthen their security posture.
+Speaker 2: All of this is powered by the AI infrastructure I mentioned earlier.
+Speaker 2: Our TPUs continue our leadership in performance,
+Speaker 2: cost and power efficiency
+Speaker 2: for customers like Thinking Machines Lab, Hudson River Trading and Boston Dynamics.
+Speaker 2: As TPU demand grows from AI labs, capital markets firms and high performance computing applications,
+Speaker 2: we'll begin to deliver TPUs to a select group of customers
+Speaker 2: in their own data centers
+Speaker 2: in a hardware configuration to expand our addressable market opportunity.
+Speaker 2: Turning to YouTube, where our momentum continues.
+Speaker 2: In the living room,
+Speaker 2: U. S. Viewers are watching over two hundred million hours of YouTube content daily.
+Speaker 2: And as of March, we've reached a new milestone with over 10,000,000 channels now publishing Shorts each day.
+Speaker 2: This level of daily activity is a testament to how people enjoy this content and how we have made it easier for creators.
+Speaker 2: And in Q1,
+Speaker 2: our YouTube Music and Premium offering
+Speaker 2: saw its largest quarterly increase in the total number of non trial subscribers,
+Speaker 2: both globally and in The U. S, since YouTube Premium launched in June 2018.
+Speaker 2: I hope you'll tune into Brandcast on May 13.
+Speaker 2: Moving to Other Bets.
+Speaker 2: Waymo is on a great trajectory. It launched in Nashville a few weeks ago.
+Speaker 2: That makes six new cities so far in 2026
+Speaker 2: and operations in 11 major U. S. Cities in total.
+Speaker 2: Waymo also surpassed 500,000
+Speaker 2: fully autonomous rides per week,
+Speaker 2: doubling in less than a year.
+Speaker 2: Vinc continues to expand across The U. S. In partnership with Walmart and DoorDash
+Speaker 2: and announced plans to operate in the Bay Area.
+Speaker 2: In summary, a terrific start to the year with so many great opportunities ahead. We are not slowing down.
+Speaker 2: Huge thanks to all of our employees and our partners.
+Speaker 2: See you at IO on May 19.
+Speaker 2: Filip, over to you.
+Speaker 4: Thanks, Sundar, and hello, everyone.
+Speaker 4: As usual, I start with the performance of Google Services and then cover the progress we're delivering across Search, YouTube and partnerships.
+Speaker 4: Google Services revenues were €90,000,000,000 for the quarter, up 16% year on year, primarily driven by the continued growth of Search.
+Speaker 4: Adding some further color to our results,
+Speaker 4: Search and Other delivered 19%
+Speaker 4: growth, primarily driven by Retail and Finance.
+Speaker 4: YouTube advertising revenues grew 11%,
+Speaker 4: driven by Direct Response followed by Brand.
+Speaker 4: And network advertising revenues were down 4% year on year.
+Speaker 4: Starting with Search and Other revenues,
+Speaker 4: which delivered €60,000,000,000
+Speaker 4: in revenue for the quarter.
+Speaker 4: We are accelerating the deployment of Gemini across our entire ads infrastructure to help businesses reach more customers in more places than ever before. This is driving significant improvements across all areas of marketing and continues to fuel new performance breakthroughs
+Speaker 4: across three areas critical for our customers' success:
+Speaker 4: ads quality,
+Speaker 4: advertiser tools and new AI user experiences.
+Speaker 4: First,
+Speaker 4: ads quality.
+Speaker 4: AI is boosting our ability to deeply understand user intent for a given search query and to find the most relevant ad.
+Speaker 4: Even when we don't have a direct user query, we're making significant strides in improving relevance.
+Speaker 4: In Discover, new AI models and classifiers are driving higher relevance by better aligning ads with unique user interests.
+Speaker 4: In Maps, we're using Gemini to ensure promoted pins are deeply relevant to user surroundings,
+Speaker 4: location of interest, history and intent.
+Speaker 4: This work is improving ads relevance by nearly 10% leading to significant increase in user engagement.
+Speaker 4: We're pairing this strength in prediction driven relevance with bottom of funnel precision.
+Speaker 4: Over the past year, we've made over 20 improvements to search and shopping bid strategies.
+Speaker 4: Smart Bidding now uses Gemini to match user intent to an advertiser's product and services more accurately
+Speaker 4: and further drive performance.
+Speaker 4: This level of granularity was previously impossible to achieve at scale.
+Speaker 4: Second, on advertiser tools, where Gemini helps advertisers drive more efficient and effective campaigns.
+Speaker 4: People no longer search in fragments, they search conversationally and share more context.
+Speaker 4: We launched AI Max to help advertisers adapt to this new way of searching And earlier this month, it moved out of beta with improved performance quality across targeting and creative capabilities.
+Speaker 4: Take Hilton EMEA. They captured one third more clicks for a fifth of the spend, while simultaneously
+Speaker 4: increasing the average booking value by 55%.
+Speaker 4: And Etsy saw a 10% search volume uplift with 15% of those queries being net new to their business.
+Speaker 4: We see significant opportunity as advertisers continue to make good progress on AI readiness and the adoption of AI tools.
+Speaker 4: For instance, more than 30% of our customers' search spend now uses AI enabled campaigns, AI Max or Performance Max,
+Speaker 4: and these advertisers are seeing more conversion for the same spend.
+Speaker 4: Third, how we monetize new AI user experiences in Search.
+Speaker 4: We aren't just bringing existing ad formats into AI experiences. We are reinventing ads for this new era.
+Speaker 4: Direct offers in AI mode are resonating with users and continue to receive positive customer feedback.
+Speaker 4: Gap, L'Oreal and Chewy are just some of the latest partners who have now signed up to test this Google Ads pilot.
+Speaker 4: We're also exploring new formats for retailers.
+Speaker 4: AI Mode already surfaces organic product recommendations
+Speaker 4: based on the user's query and we're now testing a new ad format that displays retailers who sell those recommended products.
+Speaker 4: In addition, the retail industry is rapidly coalescing around the open source Universal Commerce Protocol or UCP we launched in January in partnership with the ecosystem.
+Speaker 4: Last week, we welcomed Amazon, Meta, Microsoft, Salesforce and Stripe as new members to the UCP Tech Council.
+Speaker 4: They joined founding members Shopify, Etsy, Target, Wayfair and Google to further accelerate the transition towards an agentic future.
+Speaker 4: Partners like Sephora and Macy's have joined companies like Ulta Beauty, who are already rolling out UCP and can now redefine consumer journeys from discovery to checkout.
+Speaker 4: Ulta Beauty just last week launched a Gente commerce within AI mode in search and the Gemini app. Shoppers can now review product recommendations,
+Speaker 4: compare options and complete streamlined checkout for eligible purchases
+Speaker 4: directly within AI mode and Gemini.
+Speaker 4: Turning to YouTube,
+Speaker 4: which now has led streaming watch time in The U. S. For three consecutive years.
+Speaker 4: We're in an unmatched position to connect brands with the audiences they care about in the moment they engage in. We're applying Gemini to drive better matching and discovery between brands and creators of all sizes.
+Speaker 4: And Gemini now powers YouTube Creator Partnerships,
+Speaker 4: a centralized platform integrated directly into YouTube Studio for creators and Google Ads for advertisers.
+Speaker 4: We've also made it easier to buy premium ad space in top tier podcast shows by curating the most watched podcasts into popular genres.
+Speaker 4: For example, Supergroup partnered with YouTube creator Lisa Kochi on a multi format Shorts and long form CTV campaign,
+Speaker 4: resulting in a 93%
+Speaker 4: lift for their glow screen product and a 55%
+Speaker 4: overall brand lift.
+Speaker 4: Looking at monetization across YouTube,
+Speaker 4: momentum continues in Shorts and the living room. And DemandGen continues to drive momentum in direct response,
+Speaker 4: in particular with smaller advertisers.
+Speaker 4: Brand, too, is benefiting from growth in the Living Room where we continue to scale creator brand deals.
+Speaker 4: YouTube subscriptions revenue
+Speaker 4: continues to grow faster
+Speaker 4: particularly YouTube Music and Premium.
+Speaker 4: By the end of Q1,
+Speaker 4: YouTube Premium Lite was fully launched in 23 countries and we plan to launch in more than dozen new countries in Q2.
+Speaker 4: As always, I'll wrap with the progress we're seeing across partnerships.
+Speaker 4: Retailers are increasingly looking to Google to support their AI transformation.
+Speaker 4: This quarter,
+Speaker 4: Kingfisher,
+Speaker 4: Target and Wayfair closed significant multiyear cloud and ads deals.
+Speaker 4: Combined with the implementation of UCP,
+Speaker 4: these partnerships will help deliver personalized
+Speaker 4: AI driven agentic experiences
+Speaker 4: from discovery to checkout.
+Speaker 4: In closing, I'd like to thank Googlers everywhere for their contributions to our success and as always, our customers and partners for their continued trust.
+Speaker 4: Anat, over to you.
+Speaker 5: Thank you, Philip. My comments will focus on year over year comparisons for the first quarter unless I state otherwise.
+Speaker 5: I will start with results at the Alphabet level and will then cover our segment results.
+Speaker 5: I'll end with some commentary on our outlook for the second quarter and full year 2026.
+Speaker 5: We had an outstanding first quarter delivering our eleventh consecutive quarter of double digit revenue growth.
+Speaker 5: Consolidated revenue reached $109,900,000,000
+Speaker 5: up 22%
+Speaker 5: or 19% in constant currency.
+Speaker 5: Total cost of revenue was $41,300,000,000
+Speaker 5: up 14%.
+Speaker 5: Tech was $15,200,000,000
+Speaker 5: up 11%.
+Speaker 5: Other cost of revenues was $26,000,000,000
+Speaker 5: up 15%
+Speaker 5: primarily driven by increases in depreciation,
+Speaker 5: content acquisition costs largely for YouTube
+Speaker 5: and compensation.
+Speaker 5: Total operating expenses were up 24%
+Speaker 5: to $28,900,000,000
+Speaker 5: R and D expenses increased by 26%
+Speaker 5: driven by compensation due to investment in AI talent as well as depreciation.
+Speaker 5: Sales and marketing expenses were up 23%
+Speaker 5: driven primarily by marketing investments to support the Gemini app and search as well as compensation.
+Speaker 5: And G and A expenses increased 21%
+Speaker 5: primarily due to an increase in compensation and costs related to legal and other matters.
+Speaker 5: Operating income increased 30%
+Speaker 5: to $39,700,000,000
+Speaker 5: and operating margin was 36.1%.
+Speaker 5: Other income and expenses was $37,700,000,000
+Speaker 5: representing a meaningful increase from the prior year primarily due to unrealized gains in our non marketable equity securities portfolio.
+Speaker 5: Net income increased 81%
+Speaker 5: to $62,600,000,000
+Speaker 5: and earnings per share increased 82%
+Speaker 5: to $5.11
+Speaker 5: We generated operating cash flow of $45,800,000,000
+Speaker 5: in the first quarter
+Speaker 5: and $174,400,000,000
+Speaker 5: for the trailing twelve months. CapEx was $35,700,000,000
+Speaker 5: in the first quarter, with the overwhelming majority of this spend in technical infrastructure
+Speaker 5: to support the AI opportunities we see across the company.
+Speaker 5: Approximately 60
+Speaker 5: of our investment in technical infrastructure this quarter was in servers and 40% was in data centers and networking equipment.
+Speaker 5: Free cash flow was $10,100,000,000
+Speaker 5: in the first quarter and $64,400,000,000
+Speaker 5: for the trailing twelve months.
+Speaker 5: We ended the quarter with $126,800,000,000
+Speaker 5: in cash and marketable securities
+Speaker 5: and $77,500,000,000
+Speaker 5: in long term debt.
+Speaker 5: And as we announced today, our Board of Directors declared a 5% increase in the quarterly dividend.
+Speaker 5: Turning to segment results, Google Services revenues increased 16%
+Speaker 5: to $89,600,000,000
+Speaker 5: reflecting strong growth in search and subscriptions.
+Speaker 5: Google Services revenues also benefited from a strong FX tailwind.
+Speaker 5: Google Search
+Speaker 5: advertising revenues increased by 19%
+Speaker 5: to $60,400,000,000
+Speaker 5: driven by growth in the retail and financial services verticals.
+Speaker 5: YouTube advertising revenues increased 11%
+Speaker 5: to $9,900,000,000
+Speaker 5: driven by direct response advertising
+Speaker 5: as well as brand.
+Speaker 5: Network advertising revenues of $7,000,000,000
+Speaker 5: were down 4%.
+Speaker 5: Subscription platforms and devices revenues increased 19% this quarter to $12,400,000,000
+Speaker 5: due to strong growth in both YouTube subscriptions,
+Speaker 5: particularly in YouTube Music and Premium,
+Speaker 5: and Google One subscriptions,
+Speaker 5: which benefited from increased demand for AI plans.
+Speaker 5: Google services operating income increased 24%
+Speaker 5: to $40,600,000,000
+Speaker 5: and operating margin was 45.3%.
+Speaker 5: The Google Cloud segment delivered outstanding results in the first quarter.
+Speaker 5: Cloud revenues accelerated across all key areas and were 63%
+Speaker 5: to $20,000,000,000
+Speaker 5: Revenue growth was driven by strong performance in GCP,
+Speaker 5: which continued to grow at a rate that was much higher than cloud's overall revenue growth rate.
+Speaker 5: The largest contributor to cloud's growth this quarter was AI solutions
+Speaker 5: driven by strong demand for industry leading models including Gemini three.
+Speaker 5: In addition, we had strong growth in AI infrastructure due to continued deployment of TPUs and GPUs
+Speaker 5: and core GCP continues to be a sizable contributor
+Speaker 5: driven by demand for infrastructure
+Speaker 5: and other services such as cybersecurity
+Speaker 5: and data analytics.
+Speaker 5: Workspace again delivered strong double digit revenue growth driven by an increase in the number of seats and the average revenue per seat.
+Speaker 5: Cloud operating income was $6,600,000,000
+Speaker 5: tripling year over year and operating margin increased from 17.8%
+Speaker 5: in the first quarter of last year to 32.9%.
+Speaker 5: Google Cloud's backlog nearly doubled sequentially reaching $462,000,000,000
+Speaker 5: at the end of the first quarter.
+Speaker 5: The increase was driven by strong demand for enterprise AI offerings and the inclusion of TPU hardware sales that Sundar referenced earlier.
+Speaker 5: The majority of the backlog is related to typical GCP contracts
+Speaker 5: and we expect to recognize just over 50% of the backlog as revenue over the next twenty four months.
+Speaker 5: In Other Bets, revenues were $411,000,000
+Speaker 5: and operating loss was $2,100,000,000
+Speaker 5: For the past few years, we have been working to prioritize our efforts and investments in the Other Bets. In Q1 of this year, Verily completed an external capital raise that resulted in its deconsolidation from Alphabet.
+Speaker 5: G Fiber announced plans to combine with Astound Broadband,
+Speaker 5: which will result in its deconsolidation from Alphabet when the deal closes, which we expect to take place in Q4.
+Speaker 5: And we continue to allocate significant resources to businesses where we see meaningful opportunities
+Speaker 5: to create value such as Waymo.
+Speaker 5: Turning to our outlook, I would like to provide some commentary on factors that will impact our business performance in the second quarter and full year 2026.
+Speaker 5: First, in terms of revenues, we're pleased with the overall momentum of the business.
+Speaker 5: At current spot rates, we would expect to see an FX tailwind of approximately one percentage point to our consolidated revenue in Q2
+Speaker 5: compared to a three percentage points FX tailwinds in the first quarter.
+Speaker 5: In Google Cloud, as Sundar mentioned, we will begin to deliver TPU hardware to a select group of customers in their own data centers.
+Speaker 5: We expect to begin recognizing a small percent of the revenues from these agreements later this year with the vast majority of revenues to be realized in 2027.
+Speaker 5: It is important to keep in mind that revenues from TPU hardware sales will fluctuate from quarter to quarter depending on when TPUs are shipped to customers.
+Speaker 5: And finally, we're excited to welcome the Wizz team to Google Cloud with the closing of the acquisition in March and are very pleased with the performance to date.
+Speaker 5: A couple of items to highlight related to the acquisition. First, Wizz will be reported in the Google Cloud segment.
+Speaker 5: And second, we expect a low single digit percentage point headwind to Cloud's operating margin for the remainder of 2026
+Speaker 5: related to the acquisition.
+Speaker 5: Moving to investment,
+Speaker 5: we are updating our full year 2026
+Speaker 5: CapEx guidance range to 180,000,000,000
+Speaker 5: to $190,000,000,000
+Speaker 5: up from our previous estimate of 175
+Speaker 5: to $185,000,000,000
+Speaker 5: to now include investment related to the acquisition of Intersect,
+Speaker 5: which closed in March.
+Speaker 5: We are seeing unprecedented
+Speaker 5: internal and external demand for AI compute resources.
+Speaker 5: The investments we are making in AI is delivering strong growth, as evidenced by the record revenue and backlog growth in Google Cloud and strong performance in Google services.
+Speaker 5: Looking ahead, these strong results reinforce our conviction to invest the capital required to continue to capture the AI opportunity.
+Speaker 5: And as a result, we expect our 2027
+Speaker 5: CapEx to significantly increase compared to 2026.
+Speaker 5: In terms of expenses,
+Speaker 5: as we've discussed previously,
+Speaker 5: the significant increase in our investment in technical infrastructure will continue to put pressure on the P and L in the form of higher depreciation expense
+Speaker 5: and related data center operations costs such as energy.
+Speaker 5: We also expect to continue hiring in key investment areas such as AI and cloud
+Speaker 5: and are investing in marketing to support our AI products.
+Speaker 5: To conclude, Q1 was an outstanding quarter for Alphabet and our teams continue to execute with high level of discipline and velocity,
+Speaker 5: delivering amazing innovation.
+Speaker 5: We look forward to sharing more in the coming weeks at IO, Google Marketing Live and Brandcast.
+Speaker 5: I want to take this opportunity to thank our employees for their contributions
+Speaker 5: to our performance.
+Speaker 5: Sundar, Philip and I will now take your questions.
+Speaker 0: Thank you.
+Speaker 0: Your first question comes from Brian Nowak with Morgan Stanley. Your line is now open.
+Speaker 6: Thanks for taking my questions. I have two. The first one, Sundar, on a recent podcast, you talked about how you were acutely constrained that compute, something you focused on almost every week to sort of make sure you're deploying capacity
+Speaker 6: correctly.
+Speaker 6: So let me ask you this, as you sort of look at the search business,
+Speaker 6: what are the areas that you are most excited about applying next generation compute toward to sort of generate an ROIC
+Speaker 6: on that return in search in the next twelve months?
+Speaker 6: And then the second one is on the sale of the TPUs
+Speaker 6: to third parties.
+Speaker 6: Just can you help us philosophically understand the strategy around pricing them given the high ROIC of using TPUs to power multiyear Google Cloud workloads a little bit?
+Speaker 2: Thanks,
+Speaker 2: Brian. I'll
+Speaker 2: take the Search one first.
+Speaker 2: Obviously,
+Speaker 2: you've seen
+Speaker 2: we are taking advantage of all our investments in building the Gemini models
+Speaker 2: and both obviously applying it in Search and the Gemini app,
+Speaker 2: driving
+Speaker 2: innovations in AI overviews and AI mode,
+Speaker 2: they're all contributing
+Speaker 2: to the increased usage of the product.
+Speaker 2: I do think looking ahead, across
+Speaker 2: both these surfaces,
+Speaker 2: there is a massive opportunity
+Speaker 2: to go deeper in what we do for our users. I think
+Speaker 2: bringing agentic
+Speaker 2: flows, workflows to consumers
+Speaker 2: in a way that it's easy for them to do,
+Speaker 2: including in the context of Search, I see as a huge opportunity ahead. And obviously, we are in very, very early innings of all that.
+Speaker 2: But our investments in
+Speaker 2: our full stack of AI approach, I think, puts us in a good position to bring those experiences to Search and I'm pretty excited about it.
+Speaker 2: On the second question around
+Speaker 2: TPUs,
+Speaker 2: obviously,
+Speaker 2: would we do think about it as
+Speaker 2: what are we doing through Google Cloud
+Speaker 2: to help our customers.
+Speaker 2: And that's the framework with which we think about it.
+Speaker 2: In that context,
+Speaker 2: there are situations where
+Speaker 2: it makes sense.
+Speaker 2: For example,
+Speaker 2: you take customers like Capital Markets where they are running
+Speaker 2: this
+Speaker 2: highly performant
+Speaker 2: AI workloads,
+Speaker 2: they wanted
+Speaker 2: TPUs in
+Speaker 2: their data centers.
+Speaker 2: So there are and
+Speaker 2: those trends are true across a diverse set of industries and in certain cases,
+Speaker 2: frontier AI labs, too. And so we are
+Speaker 2: opportunistic
+Speaker 2: about it. But I do think we step back and think about it overall as the opportunity for Google Cloud.
+Speaker 2: A lot of it is providing infrastructure through cloud.
+Speaker 2: At times, it is direct sales of TPU hardwares to a select group of customers.
+Speaker 2: But again,
+Speaker 2: we
+Speaker 2: do take ROIC approach
+Speaker 2: and some of it helps us get more economies of scale
+Speaker 2: in our overall compute environment as well and so helps us invest in the cutting edge, which we need to do the next generation as well.
+Speaker 6: Thanks, Sundar.
+Speaker 0: Your next question comes from Doug Anut with JPMorgan.
+Speaker 0: Your line is now open.
+Speaker 8: Thanks so much for taking the questions. One for Anat and one for Philip.
+Speaker 8: Anat, you talked about twenty twenty seven CapEx that it will increase significantly.
+Speaker 8: And I know you didn't quantify, but how do you think about the current CapEx trajectory's ability to service this massive backlog that you've built up in just the last quarter and what will no doubt increase going forward?
+Speaker 8: And then, Philip, can you just talk more about the drivers of search queries at an all time high? And then how you're thinking about how much room there may be to increase coverage of search queries, just ability to show ads against the higher percentage of queries than the 20% you've been at historically?
+Speaker 8: Thanks.
+Speaker 5: Thanks Doug for the question. Let me start with your first question on CapEx and how we think about CapEx increase
+Speaker 5: going into 2027.
+Speaker 5: So you've seen us over the past several years increase CapEx
+Speaker 5: every year.
+Speaker 5: And we have done it very thoughtfully
+Speaker 5: to meet the demand that we are seeing both from external customers as well as demands across the organization.
+Speaker 5: And you're seeing the proof point, the ROIC on that in terms of just the growth rate we're seeing, whether it's
+Speaker 5: growth rate within search or certainly the cloud business
+Speaker 5: and the opportunity we have within the cloud backlog.
+Speaker 5: So as we're seeing that robust demand across the business,
+Speaker 5: we are looking at what can we do to support that growing demand
+Speaker 5: and the opportunity ahead of us and increasing CapEx to meet that demand will provide more clarity
+Speaker 5: in future earnings call about what that
+Speaker 5: number will be. But that's the opportunity we're seeing ahead of us. It's quite meaningful and we want to make sure we capitalize that and we do it in a way that's responsible
+Speaker 5: as we've done to date.
+Speaker 4: So on the second part of your question, first of all, just to zoom out for a second. I mean, we're very pleased with the performance of our ads business here.
+Speaker 4: And as Anat shared, Google services benefited from a strong FX tailwind.
+Speaker 4: That's important to keep in mind. The strength we saw in search was not due to a single driver, but was really the result of many parts of our business showing strength and working very well together.
+Speaker 4: If I just deep dive for a segment to the vertical perspective,
+Speaker 4: retail finance, I talked about it and health drove the greatest contribution,
+Speaker 4: although all major verticals
+Speaker 4: actually
+Speaker 4: contributed. And we make hundreds of changes every quarter to improve the user experience, the advertiser experience.
+Speaker 4: And so that's really contributing
+Speaker 4: to our performance here. And we've also been able to generate very strong ads performance while significantly
+Speaker 4: involving the search results page here.
+Speaker 4: The queries continue to grow. And as Sundar mentioned, they are at an all time high.
+Speaker 4: We see AI overviews and AI mode continue to drive greater search usage and growth in overall queries, including in commercial queries.
+Speaker 4: You specifically asked about the 20% on the coverage side. And as I said before, I think with the ability of AI to better understand intent and a lot of other factors around it, I think there is upside in
+Speaker 4: that coverage number.
+Speaker 4: And overall, just the understanding that we have for Gemini on intent has just significantly expanded our ability to deliver ads on longer more complex searches that were previously
+Speaker 4: really difficult to monetize. And so and I shared earlier, we are deploying our Gemini models now across all of our ads infrastructure, and it's really driving improvements across the big three areas that I highlighted in my prepared remarks.
+Speaker 9: Thank you both.
+Speaker 0: Our next question comes from Eric Sheridan with Goldman Sachs. Your line is now open.
+Speaker 10: Thanks so much for taking the questions. Maybe two if I could. The first one just building on the answer so far, when you look at the backlog you disclosed
+Speaker 10: today, Sona, I would love to know if you can come back to your comments on AI infrastructure
+Speaker 10: and your unique approach and how that positions you to either build capacity,
+Speaker 10: scale compute and do it in a way that is, as Anat said, sort of effective
+Speaker 10: from a margin standpoint as well as a
+Speaker 10: compute standpoint, just to understand where you sit competitively in your mind relative to others? That'd be one. And then, Philip, to bring you into the conversation, you referenced UCP, and there's been a lot of industry inertia around UCP
+Speaker 10: very quickly. Talk to us a little bit about what UCP means for
+Speaker 10: the services business as AgenTek Commerce scales in the years ahead. Thanks so much.
+Speaker 2: Thanks, Eric.
+Speaker 2: Look, I do think
+Speaker 2: part of I mean, I do think we are genuinely differentiated. We are unique in the market because of our vertically optimized AI stack
+Speaker 2: and the way we co develop the components from our infrastructure and models to platforms and the tools
+Speaker 2: to applications and agents.
+Speaker 2: And the fact that we
+Speaker 2: own frontier models,
+Speaker 2: own the silicon,
+Speaker 2: really helps us stay ahead of the curve. And on top of it all, just to put an extra point on it, the deep investment in our security layers to keep everything safe.
+Speaker 2: And I think we are the only provider in the market that offers all of these in a vertical stack.
+Speaker 2: And so overall,
+Speaker 2: again, to my earlier comments to Brian, I think about it all as Google Cloud.
+Speaker 2: We have
+Speaker 2: many different ways
+Speaker 2: to serve our customers
+Speaker 2: so we can meet them
+Speaker 2: in a way
+Speaker 2: suited to their needs, I think,
+Speaker 2: other
+Speaker 2: players here.
+Speaker 2: And I do
+Speaker 2: think, looking ahead,
+Speaker 2: our ability to
+Speaker 2: invest in this moment and stay at the frontier,
+Speaker 2: think, puts us in a strong position.
+Speaker 2: And I think we are doing it based on tangible
+Speaker 2: demand signals we are seeing.
+Speaker 2: And it's not just on the revenue side, but I'm talking from an ROIC framework
+Speaker 2: And that's what is helping us navigate this moment responsibly.
+Speaker 4: And to the second part of your question, look, mean, we're in the early stages of the AgenTic era. AgenTic is more than just complete transactions.
+Speaker 4: We all know this. We see AgenTic experiences as additive and it will really transform how we shop from discovery to decisions
+Speaker 4: while helping obviously brands differentiate themselves.
+Speaker 4: We've been very intentional about creating an agentic experience that works for our users, our partners, for the entire ecosystem.
+Speaker 4: And our goal is really to remove the grunt work of shopping so consumers can focus on the enjoyable parts.
+Speaker 4: For decades, you could either shop fast or smart. And I think with Agenda Commerce,
+Speaker 4: you no longer have to actually choose between speed and certainty here. And the vision is to make commercial experiences across the board assistive,
+Speaker 4: more personal, more fluid.
+Speaker 4: And we're carefully designing space in AgenTek workflows for users to really see valuable components of their shopping journey beyond just price such as customer service, brand loyalty and more while removing the friction of the process that I just talked about. And this is exactly where the part of your question kicks in, the Universal Commerce Protocol, a new open standard for organic commerce that works actually across the entire shopping journey from the discovery to the buying and the post purchase support that we just talked about. And it was really co developed with the industry leaders including I mentioned them Shopify, Etsy, Walmart and so on. And we've received tremendous feedback so far from hundreds of top tech companies,
+Speaker 4: payments partners, retailers
+Speaker 4: really interested
+Speaker 4: in integrating.
+Speaker 4: And it will help power a new checkout experience in AI mode, in search, in the Gemini app and allowing shoppers to actually check out from select merchants right as they're researching
+Speaker 4: on Google and going through this journey. So we're very, very excited about it.
+Speaker 0: Our next question comes from Ross Sandler with Barclays. Your line is now open.
+Speaker 9: Yes. Just following up on the last question on AgenTic shopping. So it seems like we're at the point in time where
+Speaker 9: this is actually going to start happening finally.
+Speaker 9: So Philip,
+Speaker 9: just to elaborate a little bit, as you try as you look at carrying the AdWords business from kind of the old way of doing things to this to this new agentic,
+Speaker 9: frictionless
+Speaker 9: shopping way, How do you see the the price and volume kind of growth trends for core AdWords evolving
+Speaker 9: as, as you start implementing more agentic workflows in search?
+Speaker 4: Look, our number one focus is obviously on the user experience here. And I think the most important part in this is what I mentioned before. We are carefully designing the space in agentic workflows for the users to actually see the valuable components within that shopping journey. And the second you have the space, you obviously have the ability
+Speaker 4: for interesting advertising
+Speaker 4: models.
+Speaker 4: I think it's also worthwhile noting that beyond just the traditional agents, there is a lot of additional ways we can actually use AI to improve the shopping experience. And
+Speaker 4: you can think about it like our apparel try on tools that is now available in The U. S. You can think about Google Lens. So there's a lot more to do here. But I think the key part is actually what I said before.
+Speaker 4: We focus on the user experience here and then think I think all else will follow if we pay attention to the points I mentioned.
+Speaker 0: Your next question comes from Michael Nathanson with MoffettNathanson.
+Speaker 0: Your line is now open.
+Speaker 7: Thanks. One for Sundar, one for Philip. Sundar, if I can connect
+Speaker 7: Brian's question, Eric's question
+Speaker 7: and go a little bit higher. I wanted to understand
+Speaker 7: how are you deciding, how are you allocating,
+Speaker 7: which divisions and projects get excess capacity given that you're constrained, right? So how do you decide between
+Speaker 7: all the internal projects you have
+Speaker 7: and the external projects, right? So what types of screens are you running
+Speaker 7: to decide who gets the incremental capacity?
+Speaker 7: And then for Philip, I've noticed that you said this on the Gemini app, there's more and more images that come to you in the shopping journey. Can you talk about your thoughts about adding advertising
+Speaker 7: on that app? And what's driving your decision making here on adding ads on Gemini? Thanks,
+Speaker 2: Michael. I think great question.
+Speaker 2: On an ongoing basis, I'm looking forward to Gemini helping me more and more as I'm thinking that through.
+Speaker 2: Look, I do think that the foundation where we start with it is what do we need from an
+Speaker 2: R and D standpoint to
+Speaker 2: develop models at the frontier? So what do you need for
+Speaker 2: training these models? And so effectively, the compute needed for GDM
+Speaker 2: because it's a foundation for everything we do. And so that's a core principle with which we operate.
+Speaker 2: And then obviously,
+Speaker 2: with the ability to plan ahead,
+Speaker 2: we are we
+Speaker 2: do long range plans
+Speaker 2: on
+Speaker 2: our core areas, be
+Speaker 2: it Search, be it YouTube
+Speaker 2: and so on, as well as what we see
+Speaker 2: in Google Cloud. And obviously, Google Cloud,
+Speaker 2: are providing enterprise AI solutions,
+Speaker 2: which
+Speaker 2: this quarter
+Speaker 2: had an 800%
+Speaker 2: year on year increase from the prior year.
+Speaker 2: So we are seeing strong demand
+Speaker 2: for
+Speaker 2: Gemini Enterprise,
+Speaker 2: our AI solutions there.
+Speaker 2: We see strong demand for infrastructure
+Speaker 2: in Google Cloud.
+Speaker 2: And as I said earlier, in select cases,
+Speaker 2: we are seeing demand for TPU hardware
+Speaker 2: and other data centers as well.
+Speaker 2: So we
+Speaker 2: are modeling these out and
+Speaker 2: working to allocate across
+Speaker 2: these
+Speaker 2: areas.
+Speaker 2: Obviously, we are compute constrained
+Speaker 2: in the near term.
+Speaker 2: And
+Speaker 2: as an example, our cloud revenue would have been higher if we were able to meet the demand.
+Speaker 2: So we are working through that moment and we are investing, but we have a robust
+Speaker 2: long range planning framework.
+Speaker 2: And we see extraordinary opportunities ahead and we are allocating with that framework in mind.
+Speaker 4: And to the second part of your question, as I said in my previous answer,
+Speaker 4: we are obviously focused
+Speaker 4: on the user first and creating a really great user experience with all of our product, especially on newer products.
+Speaker 4: And specifically on monetization in the Gemini app, our focus right now is on AI mode.
+Speaker 4: But it's fair to say that we really believe a format that works well in AI mode would transfer successfully to Gemini app.
+Speaker 4: And so today in the Gemini app, we're focused on the free tier subscriptions and our AI plans were a sizable contributor to our Google One revenue growth.
+Speaker 4: But let's also be clear, ads have always been a big part of scaling products to reach billions of people. And if done well, ads can be really valuable and really helpful commercial information. And at the right moment,
+Speaker 4: we'll share any plans as we have said, but we're not rushing anything here.
+Speaker 0: Your next question comes from Mark Schmulloch with AllianceBernstein.
+Speaker 0: Your line is now open.
+Speaker 3: Thanks for taking the question. Philip, one more on search performance if I
+Speaker 3: You know, you talked a few times about kinda optimizing for the consumer experience. And I guess besides higher query volume, is it fair to conclude that consumers
+Speaker 3: are using these AI tools, Google's or otherwise, and it's shrinking their purchasing journeys,
+Speaker 3: converting at higher rates? And if so, is there a way to dimensionalize how much of the strength in search is being driven by that behavioral change against perhaps some of the newer advertiser AI tools that you've been launching and rolling out? Thank you.
+Speaker 4: I think the way to think about it is really
+Speaker 4: to think about the expansionary moment we see here for Search. This is the key part. AI is fundamentally changing how the world searches
+Speaker 4: for and how it accesses information.
+Speaker 4: Of course, are at an all time highest under centers.
+Speaker 4: Traditional search really started with 10 blue links and now we have AI overviews and AI mode and they have made search more intelligent than ever and they let you ask far more complex questions.
+Speaker 4: And we have Lens or Circle to Search and we have Search Live. Search Live is now available to all countries and languages that support AI mode. Again, shows you the expansionary nature
+Speaker 4: of it. And we have our AI driven search campaigns and we have now SMBs that can reach customers at a scale that really wasn't possible even a few years ago. And you can add in Google Translate and so on. So I feel if you factor all of this in,
+Speaker 4: we're in a pretty good place and are quite excited about where this is going.
+Speaker 0: Your next question comes from Ron Josey with Citi. Your line is now open.
+Speaker 7: Great. Thanks for taking the question. Maybe this one is for Anat. We continue with margins continue to expand here, I wanted to understand maybe if you could break down the cost drivers or really the drivers of margin expansion,
+Speaker 7: amongst cloud. There's a thesis out there that AI revenues are lower margin in general, but we are seeing margins improve. So more insights on just the cloud business and what's driving that margin expansion. Obviously demand may be pricing, but that would be helpful. Thank you.
+Speaker 5: Sure. Let me help unpack the margin expansion. Obviously, we're pleased to see that. There are pushes and pulls across the business, including within cloud specifically.
+Speaker 5: And I would start with the top line. When we see this robust strong revenue growth, both in cloud and Google services, it does provide leverage all the way down to the
+Speaker 5: bottom line within the income statement.
+Speaker 5: And you know we've been working hard to ensure we have
+Speaker 5: we're running a productive
+Speaker 5: and efficient organization.
+Speaker 5: And it's not just how we operate the business, but even in areas such as our technical infrastructure
+Speaker 5: where we are investing
+Speaker 5: these significant CapEx investments in our data centers and servers.
+Speaker 5: We are looking at how we drive scientific process innovation within that
+Speaker 5: organization.
+Speaker 5: And that is reflected
+Speaker 5: both in cloud and Google services as we allocate cost
+Speaker 5: based
+Speaker 5: on consumption.
+Speaker 5: In the past, I did talk about the depreciation associated with these investments that is hitting both Google Cloud and Google services.
+Speaker 5: Google Cloud expanded margin quite significantly from a year ago as you've seen in our numbers
+Speaker 5: that we've just
+Speaker 5: previewed.
+Speaker 5: And a lot of it is the top line growth that Google Cloud is providing or producing,
+Speaker 5: as well as an incredibly efficient way of running the business. I will give Thomas and the team a lot of credit for
+Speaker 5: running a very productive organization
+Speaker 5: and making sure that we are supporting our customers and providing the services and products that they
+Speaker 5: want and benefit from, continue to drive top line growth and doing this well within the middle of the income statement,
+Speaker 5: all the way from a very efficient technical infrastructure,
+Speaker 5: thinking through how do we leverage AI across our business. Sundar mentioned
+Speaker 5: the use of coding internally
+Speaker 5: or how
+Speaker 5: Gemini helps us there optimizing
+Speaker 5: our real estate footprint
+Speaker 5: and we're going to continue to do this. This is not we're not going to stop here. We're going to continue to push for more efficiency knowing that we're going to have the headwind associated with
+Speaker 5: the depreciation coming with higher
+Speaker 5: CapEx level.
+Speaker 7: Thank you. Very helpful.
+Speaker 0: Our next question comes from Ken Gorelski with Wells Fargo. Your line is now open.
+Speaker 10: Thank you very much. Two if I may please. First
+Speaker 10: on the cloud and capacity,
+Speaker 10: could you speak about how your verticalized capabilities
+Speaker 10: enable you to navigate a complicated supply chain,
+Speaker 10: especially one experiencing inflation and constraints?
+Speaker 10: Are you factoring any supply chain price inflation into '26 27
+Speaker 10: CapEx commentary?
+Speaker 10: And as part of that, maybe not, could you talk could you update us on the allocation of compute capacity
+Speaker 10: internal versus external cloud? And then one more please. When you think about
+Speaker 10: search query volume growth, we're clearly seeing expanding use cases.
+Speaker 10: Historically,
+Speaker 10: it's always been free to the consumer with and completely ad supported.
+Speaker 10: Do you see future use cases where
+Speaker 10: certain consumer use cases are more effectively monetized via subscriptions
+Speaker 10: and maybe a different mix of the consumer search
+Speaker 10: the new search opportunity?
+Speaker 10: All
+Speaker 2: right, Ken. Maybe there are a few parts to it. Maybe I'll
+Speaker 2: touch on it. And
+Speaker 2: on overall
+Speaker 2: compute,
+Speaker 2: I think I spoke earlier on how we think about allocation of compute across our
+Speaker 2: businesses.
+Speaker 2: And I think,
+Speaker 2: again, the long range planning and the ROIC frameworks
+Speaker 2: give us a good way to plan ahead.
+Speaker 2: I do think we I mean, obviously,
+Speaker 2: we are
+Speaker 2: working through a complicated supply chain environment, as you point
+Speaker 2: factoring that into any commentary we give.
+Speaker 2: But I think the scale at which we are operating
+Speaker 2: and our ability to
+Speaker 2: work across all layers, both
+Speaker 2: our supply chain partners see the strength of our diversified
+Speaker 2: businesses and demand we drive
+Speaker 2: and our
+Speaker 2: frontier technology
+Speaker 2: and the investments
+Speaker 2: all through the stack,
+Speaker 2: I think they help us
+Speaker 2: get into deeper partnerships
+Speaker 2: all across the supply chain. I think that's
+Speaker 2: and I mentioned earlier the economies of scale point as well. So all of that factors in a positive way there, I think.
+Speaker 2: In
+Speaker 2: terms of search,
+Speaker 2: look, I think we
+Speaker 2: are proud that we build models that all we are at the frontier across the Pareto frontier.
+Speaker 2: We do think about capability and the cost frontier deeply
+Speaker 2: so that we can serve users at scale,
+Speaker 2: but at the same time, we can bring in the most powerful models for the most demanding queries.
+Speaker 2: But the future as you are right that
+Speaker 2: in a valuable
+Speaker 2: as we serve more and more valuable use cases, there are going to be use cases where people will
+Speaker 2: want to use the most powerful model
+Speaker 2: and there may be different ways to accomplish that. So we're going to put the user first and support them in the way
+Speaker 2: they want to use the product
+Speaker 2: and we already
+Speaker 2: provide
+Speaker 2: various
+Speaker 2: tiers of our subscription plans
+Speaker 2: in which you can get access to more powerful models. And that applies across your Google user experience,
+Speaker 2: including
+Speaker 2: in search. You've seen the momentum.
+Speaker 2: We saw
+Speaker 2: a very robust quarter in terms of our AI subscriptions growth
+Speaker 2: driven by interest in getting access to better Gemini models. And so I think that sets us up well to serve the breadth of use cases people would want in all places, including in Search.
+Speaker 10: Thank you.
+Speaker 0: And
+Speaker 0: our last question comes from Justin Post with Bank of America. Your line is now open.
+Speaker 7: Great. Thank you for taking my question. I expect a lot of interest in your TPU sales. So can you help us think about the how you're thinking about the opportunity there? And then maybe how much break down the backlog growth a little bit between TPUs and cloud?
+Speaker 7: And then and then second question,
+Speaker 7: just thinking about the margins on these big generative AI
+Speaker 7: cloud deals.
+Speaker 7: How do you think about these $100,000,000,000
+Speaker 7: deals coming in and margins associated with those? Can they be similar to your cloud business as it is? Look,
+Speaker 2: overall, I would say, look, we see tremendous interest in
+Speaker 2: there's tremendous demand for both AI solutions as well as AI infrastructure,
+Speaker 2: including
+Speaker 2: massive
+Speaker 2: interest in our
+Speaker 2: GPU offerings
+Speaker 2: as well as
+Speaker 2: TPUs.
+Speaker 2: And
+Speaker 2: so we
+Speaker 2: are
+Speaker 2: proud that we can provide customers
+Speaker 2: with a very diverse
+Speaker 2: with the breadth of our offerings and
+Speaker 2: let them we can meet them in terms of where their needs are.
+Speaker 2: And maybe I'll
+Speaker 2: pass it on give some color on the backlog growth. Yes. So log, the
+Speaker 5: TPU hardware agreements that Sundar referenced in his prepared remarks
+Speaker 5: are reflected in our cloud backlog of the $462,000,000,000
+Speaker 5: Although the majority of the backlog
+Speaker 5: is still GCP agreements.
+Speaker 5: Now as you think about the total backlog,
+Speaker 5: just over half of it will convert to revenue in the next twenty four months.
+Speaker 5: And the TPU hardware sales more specifically,
+Speaker 5: we expect a small percent of them to see coming through as revenue later this year and then the majority
+Speaker 5: to be realized as revenue in 2027.
+Speaker 5: And
+Speaker 7: then anything on the big AI deal margins with the generative AI companies?
+Speaker 2: Look, I think nothing to comment on any specific contracts.
+Speaker 2: But overall, earlier there was a lot of questions about how do we allocate. And remember,
+Speaker 2: in a constrained environment,
+Speaker 2: when we are choosing to allocate across all these opportunities,
+Speaker 2: we are working off a robust ROIC framework.
+Speaker 7: Thank you.
+Speaker 0: Thank you. And that concludes our question and answer session for today. I'd like to turn the conference back over to Jim Friedland for any further remarks.
+Speaker 1: Thanks everyone for joining us today. We look forward to speaking with you again on our second quarter twenty twenty six call.
+Speaker 1: Thank you and have a good evening.

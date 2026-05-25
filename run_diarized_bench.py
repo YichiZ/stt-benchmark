@@ -20,6 +20,7 @@ STT_PROVIDERS = {
     "deepgram": ("src.stt.deepgram_stt", "DEEPGRAM_API_KEY"),
     "elevenlabs": ("src.stt.elevenlabs_stt", "ELEVENLABS_API_KEY"),
     "cartesia": ("src.stt.cartesia_stt", "CARTESIA_API_KEY"),
+    "gemini": ("src.stt.gemini_stt", "GEMINI_API_KEY"),
 }
 
 BENCHMARKS = [
