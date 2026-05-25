@@ -11,9 +11,9 @@ Benchmark comparing speech-to-text providers on transcription accuracy, speaker 
 
 ## Audio Test Clips
 
-1. Kevin Small Talk (The Office) -- ~2 min, ~6 speakers, broken English
-2. Anne Hathaway Interview (Tonight Show) -- ~7 min, 2 main speakers
-3. Friends Afford Dinner -- ~4 min, ~6 characters + laugh track
+1. [Kevin Small Talk (The Office)](https://www.youtube.com/watch?v=_K-L9uhsBLM) -- ~2 min, ~6 speakers, broken English
+2. [Anne Hathaway Interview (Tonight Show)](https://www.youtube.com/watch?v=OQ5fWo61mnM) -- ~7 min, 2 main speakers
+3. [Friends Afford Dinner](https://www.youtube.com/watch?v=lkbr5qnYSUU) -- ~4 min, ~6 characters + laugh track
 
 ## Setup
 
